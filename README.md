@@ -1,6 +1,6 @@
 # Dining Concierge Chatbot
 
-This project implements a **Dining Concierge Chatbot** that provides restaurant suggestions based on user preferences. The solution leverages AWS services like **Lex**, **Lambda**, **DynamoDB**, **Elasticsearch**, **SQS**, and **SES** in a serverless, microservice-driven architecture.
+This project implements a **Dining Concierge Chatbot** that provides restaurant suggestions based on user preferences. The solution leverages AWS services like **Lex**, **Lambda**, **DynamoDB**, **Elasticsearch**, **SQS**, and **SES** in a serverless, microservice-driven architecture. A demo to the project can be found on this [link](https://www.youtube.com/watch?v=ZQRdDwzZ3AI).
 
 ---
 
