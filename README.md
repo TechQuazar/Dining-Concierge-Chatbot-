@@ -43,6 +43,13 @@ This project implements a **Dining Concierge Chatbot** that provides restaurant 
 
 ---
 
+## Architecture Diagram
+
+![Architecture Diagram](Diagram.jpg)
+
+---
+
+
 ## Workflow
 
 1. **User Interaction**:
@@ -90,12 +97,6 @@ Hello! Here are my Japanese restaurant suggestions for 2 people at 7 pm:
 3. Nikko, located at 1280 Amsterdam Ave.
 Enjoy your meal!
 
-
----
-
-## Architecture Diagram
-
-![Architecture Diagram](Diagram.png)
 
 ---
 
